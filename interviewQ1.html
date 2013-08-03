@@ -1,0 +1,18 @@
+
+ <html>
+   <body>
+     <ul>
+       <li>First</li>
+       <li>Second</li>
+       <li>Third</li>
+       <li>Fourth</li>
+     </ul>
+   </body>
+   <script type="text/javascript">
+     els = document.getElementsByTagName('li');
+     els[0].addEventListener('click', function(){alert(1);}, false);
+     els[1].addEventListener('click', function(){alert(2);}, false);
+     els[2].addEventListener('click', function(){alert(3);}, false);
+     els[3].addEventListener('click', function(){alert(4);}, false);
+   </script>
+ </html>
