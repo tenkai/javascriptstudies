@@ -1,5 +1,9 @@
 Ten Simple Javascript Exercises
 ----
+
+here are answers i coded to the exercises described here:
+http://www.ling.gu.se/~lager/kurser/webtechnology/lab4.html
+
 1. Define a function max() that takes two numbers as arguments and returns the largest of them. Use the if-then-else construct available in Javascript.
 
 	http://jsfiddle.net/hxp6S/4/
